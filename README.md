@@ -1,2 +1,2 @@
-# PROTOTYPE_FINDME
-FIND ME
+# p5.play-boilerplate
+Boiler plate for p5.play
